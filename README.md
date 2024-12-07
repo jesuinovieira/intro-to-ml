@@ -5,7 +5,7 @@
 
 # Perceptron
 
-Implementation of the perceptron neural network, following the definitions provided by [1].
+Implementation of the perceptron neural network, following the definitions provided by [1]. The report (in Portuguese) is available at [docs/relatorio.pdf](docs/relatorio.pdf).
 
 > [1] Haykin, S. S. (2009), Neural networks and learning machines, Pearson Education, Upper Saddle River, NJ.
 
